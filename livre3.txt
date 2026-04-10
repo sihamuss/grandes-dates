@@ -5,3 +5,7 @@
 800 : Couronnement de Charlemagne
 987 : Couronnement de Hugues Capet »
 843 : traitement verdun
+1066 : Guillaume Le Conquérant
+1270 : La mort de Saint Louis
+1298 : Voyage de Marco Polo
+
